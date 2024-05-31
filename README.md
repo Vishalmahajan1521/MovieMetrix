@@ -56,6 +56,6 @@ MovieMetrix is a personalized movie recommendation system built using Streamlit.
 
 ## Screenshots
 
-Screenshots of the application can be viewed [here]([https://drive.google.com/drive/folder_link](https://drive.google.com/drive/folders/11e0_B-micW6CnJAnIs7srqiRglfBepQ4?usp=sharing)).
+Screenshots of the application can be viewed [here](https://drive.google.com/drive/folders/11e0_B-micW6CnJAnIs7srqiRglfBepQ4?usp=sharing).)).
 
 
