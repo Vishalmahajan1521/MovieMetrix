@@ -12,7 +12,7 @@ MovieMetrix is a personalized movie recommendation system built using Streamlit.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/MovieMetrix.git
+   git clone https://github.com/Vishalmahajan1521/MovieMetrix.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -56,9 +56,6 @@ MovieMetrix is a personalized movie recommendation system built using Streamlit.
 
 ## Screenshots
 
-![Home Page](screenshots/home.jpg)
-![Personalized Recommendations](screenshots/recommendations.jpg)
-![Mood-Based Recommendations](screenshots/mood_recommendations.jpg)
-![Filteration](screenshots/filteration.jpg)
+Screenshots of the application can be viewed [here]([https://drive.google.com/drive/folder_link](https://drive.google.com/drive/folders/11e0_B-micW6CnJAnIs7srqiRglfBepQ4?usp=sharing)).
 
 
