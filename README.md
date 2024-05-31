@@ -32,7 +32,7 @@ MovieMetrix is a personalized movie recommendation system built using Streamlit.
 
 ## Usage
 
-1. Ensure the `Net.csv` file containing movie data is in the project directory.
+1. Ensure the `Netflix Dataset.csv` file containing movie data is in the project directory.
 2. Run the Streamlit app:
    ```bash
    streamlit run app.py
@@ -43,7 +43,7 @@ MovieMetrix is a personalized movie recommendation system built using Streamlit.
 ## Project Structure
 
 - `app.py`: The main application file.
-- `Net.csv`: The dataset containing movie information.
+- `Netflix Dataset.csv`: The dataset containing movie information.
 - `requirements.txt`: A file listing the required Python packages.
 
 ## Technologies Used
